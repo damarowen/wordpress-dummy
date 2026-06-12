@@ -3,6 +3,10 @@ app/public/wp-admin/
 app/public/wp-includes/
 app/public/wp-content/uploads/
 app/public/wp-content/upgrade/
+app/public/wp-content/plugins/elementor/
+app/public/wp-content/themes/twentytwentyfive/
+app/public/wp-content/themes/twentytwentyfour/
+app/public/wp-content/themes/twentytwentythree/
 app/public/.htaccess
 
 # Local by Flywheel runtime files
