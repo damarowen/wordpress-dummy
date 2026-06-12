@@ -1,0 +1,26 @@
+# WordPress core (do not track)
+app/public/wp-admin/
+app/public/wp-includes/
+app/public/wp-content/uploads/
+app/public/wp-content/upgrade/
+app/public/.htaccess
+
+# Local by Flywheel runtime files
+logs/
+conf/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node modules
+node_modules/
+
+# Database snapshots (optional — uncomment if you want to ignore)
+# app/sql/local.sql
